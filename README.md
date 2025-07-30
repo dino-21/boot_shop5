@@ -1,5 +1,9 @@
 ## 쇼핑몰 - 5장    ##
-##  java17  boot + 연관관계/영속성전이   ##
+##  java17  boot + JPA 연관관계/영속성전이   ##
+
+###  연관관계 매핑   ###
+###  연속성전이   ###
+
 
 
 <img width="1206" height="745" alt="1" src="https://github.com/user-attachments/assets/99b47fe8-e7eb-4f52-8c8b-5beda77ef30d" />
